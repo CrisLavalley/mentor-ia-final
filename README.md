@@ -46,4 +46,4 @@ VITE_OPENAI_API_KEY=tu_clave_aquí
 
 ---
 
-Hecho con ❤️ por [Tu Nombre o Alias].
+Hecho con ❤️ por Cristhianne De León.
